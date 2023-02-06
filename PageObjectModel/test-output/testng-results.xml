@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17039" started-at="2023-01-24T19:51:21 IST" finished-at="2023-01-24T19:51:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17039" started-at="2023-01-24T19:51:21 IST" finished-at="2023-01-24T19:51:38 IST">
+      <class name="executetests.DatePickersTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:executetests.DatePickersTest@52f759d7]" name="browserLaunch" is-config="true" duration-ms="9022" started-at="2023-01-24T19:51:21 IST" finished-at="2023-01-24T19:51:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="selectADate()[pri:0, instance:executetests.DatePickersTest@52f759d7]" name="selectADate" duration-ms="7927" started-at="2023-01-24T19:51:30 IST" finished-at="2023-01-24T19:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectADate -->
+        <test-method status="PASS" signature="browserExit()[pri:0, instance:executetests.DatePickersTest@52f759d7]" name="browserExit" is-config="true" duration-ms="0" started-at="2023-01-24T19:51:38 IST" finished-at="2023-01-24T19:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserExit -->
+      </class> <!-- executetests.DatePickersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
